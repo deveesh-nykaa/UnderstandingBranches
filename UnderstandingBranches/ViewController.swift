@@ -13,9 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        //direct change on develop 2
     }
 
-
+    func f1() {
+        //1
+    }
 }
 
